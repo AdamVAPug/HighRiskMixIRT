@@ -1,7 +1,7 @@
 # High Risk mixIRT
 - Metadata for the mixIRT paper on multimorbidity.
 - DOI: 10.1109/JBHI.2019.2948734
-- Based on the pioneering work by Katherine Prenevost: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206915
+- Based on the pioneering work by Katherine Prenevost: https://doi.org/10.1371/journal.pone.0206915
 
 # Data
 - Deidentified data: https://www.datahub.va.gov/dataset/ICD9-and-ICD10-Comorbid-Diagnosis-for-High-Risk-Ve/mick-4aih
