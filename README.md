@@ -3,6 +3,7 @@ Metadata for the mixIRT paper on multimorbidity.
 DOI: 10.1109/JBHI.2019.2948734
 
 # Data
+- Deidentified data: https://www.datahub.va.gov/dataset/ICD9-and-ICD10-Comorbid-Diagnosis-for-High-Risk-Ve/mick-4aih
 - icd9.csv:  Cohort from calendar year 2014 (N1 = 937,407), for which we used International Classification of Disease Version 9 (ICD9) codes to identify comorbid conditions.
 - icd10.csv: A more recent cohort selected from June 2017 to June 2018  (N2 = 979,607) for use with the newer International Classification of Disease Version 10 (ICD10) codes
 # Meta Data
